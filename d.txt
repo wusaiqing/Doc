@@ -1,1 +1,3 @@
-ddd
+d
+vi  d.txt
+dd

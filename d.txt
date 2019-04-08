@@ -1,4 +1,0 @@
-ddd
-vi  d.txt
-dd
-test
